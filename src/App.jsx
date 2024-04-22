@@ -92,7 +92,7 @@ function App() {
             <MyCard
               nombre='FRANKY'
               url={'https://i0.wp.com/posterycuadros.com/wp-content/uploads/2022/11/1000014097.jpg?fit=880%2C1287&ssl=1https://i0.wp.com/posterycuadros.com/wp-content/uploads/2022/11/1000014084.jpg?fit=324%2C474&ssl=1'}
-              parrafo="Conmstructor y mecánico de Piratas Sombrero de Paja, es mitad SIBORG. Tiene armas en su cuerpo."
+              parrafo="Constructor y mecánico de Piratas Sombrero de Paja, es mitad SIBORG. Tiene armas en su cuerpo."
               Fondo="success"
               Texto="Ver más"
             />
